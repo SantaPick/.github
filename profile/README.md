@@ -1,1 +1,1 @@
-Prometheus SantaPick team
+![SantaPick_panel](SantaPick_panel.png)
