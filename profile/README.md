@@ -1,1 +1,1 @@
-![SantaPick_panel](SantaPick_panel.png)
+[SantaPick_panel]
